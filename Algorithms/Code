@@ -1,0 +1,4 @@
+The machine learning algorithm is implemented using Python and the following algorithms:
+Random Forest: This algorithm is used for classification tasks, such as identifying the type of cyber attack.
+K-Nearest Neighbors: This algorithm is used for anomaly detection tasks, such as identifying unusual network traffic patterns that may indicate a cyber attack.
+Principal Component Analysis: This algorithm is used for feature selection tasks, such as identifying the most important network traffic features that are indicative of a cyber attack.
