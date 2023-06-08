@@ -1,0 +1,6 @@
+Collect a large dataset of known cyber attacks and label the data with the type of attack.
+Preprocess the data using the data_preprocessing.py module.
+Train the machine learning algorithm on the preprocessed data using the model_training.py module.
+Deploy the machine learning algorithm in a real-world network environment using the model_deployment.py module.
+Take proactive measures to prevent cyber attacks using the proactive_measures.py module.
+Regularly update the machine learning algorithm with new data on emerging cyber threats using the regular_updates.py module.
